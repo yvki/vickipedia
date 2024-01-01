@@ -76,5 +76,10 @@
 | [Remote Working](https://github.com/greatghoul/remote-working) | 國際远程工作资料大全 |
 
 ### ‼️ Other Notes
-- 截至2023年11月我被選為LinkedIn獨家新專家小組的成員、撰寫與技術相關的合作文章😊 雖然我比較喜歡閱讀中文作品、但我的英文和國語都很流利也會講一點福建話及讀日語和西班牙語🗣️ 若你有任何建議及疑问、请InMail我的帳號📮 提前為遲回覆表示歉意哦
 - 這個repo不隸屬於wikipedia❌ 只是我英文名字的另一個雙關語~嘻嘻 
+- 截至2023年11月我被選為LinkedIn獨家新專家小組的成員、撰寫與技術相關的合作文章😊 雖然我比較喜歡閱讀中文作品、但我的英文和國語都很流利也會講一點福建話及讀日語和西班牙語🗣️ 若你有任何建議及疑问、请InMail我的帳號📮 提前為遲回覆表示歉意哦
+<details>
+  <summary>查看image</summary>
+  <br />
+  <img src="https://github.com/yvki/vickipedia/assets/66511759/369570e8-6311-43c0-b55f-f350ae82b64c"/>
+</details>
